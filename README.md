@@ -10,4 +10,5 @@
 При выполнении использовалась библиотека lxml и python3.7
 
 пример запуска скрипта с тестовыми данными 
+
 python3.7 compile.py "person.xml" "person.xsd" "person.xslt" "result_person.xsd" "result_person.xml"
